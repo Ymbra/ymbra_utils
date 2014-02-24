@@ -1,0 +1,4 @@
+name = Ymbra utilities
+description = Provides diverse helping tools for development and site building
+core = 7.x
+package = Ymbra
